@@ -1,0 +1,9 @@
+﻿<Application x:Class="authorization.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:authorization_registration"
+             StartupUri="authorization_window.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
